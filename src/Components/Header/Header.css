@@ -1,0 +1,43 @@
+.Appbar{
+    position: static;
+    height: 80px;
+}
+.toolbar{
+    height: 100%;
+}
+.header-search{
+    margin-left: 40px;
+    width: 250px;
+    padding-bottom: 14px !important;
+}
+.header-select{
+    max-width: 200px;
+    margin-top: 1px;
+    margin-left: 20px;
+}
+
+.left-part {
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+.right-part {
+    position: relative;
+    display: flex;
+    width:150px;
+    align-items: center;
+
+}
+.filter{
+    height: 61px;
+    margin: 0 auto;
+    align-items: center;
+}
+.header-icon{
+    margin-left: 10px;
+    width: 64px;
+    height: 64px;
+}
+
+ 

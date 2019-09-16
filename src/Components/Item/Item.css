@@ -1,0 +1,19 @@
+.item-card{
+    width: 237px;
+    height:400px ;
+    margin: 5px;
+    margin-bottom: 15px
+}
+.item-image{
+    height: 208px;
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+    padding: 10px
+}
+.item-title{
+    margin-left: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}

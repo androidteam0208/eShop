@@ -1,0 +1,79 @@
+.slick-slide, .slick-slide * {
+    outline: none !important;
+}
+
+.slick-prev:before, .slick-next:before {
+    color: gray!important;
+}
+.details{
+    padding: 10px 10px 30px 10px;
+}
+.details-name{
+        color:#504F5A;
+        margin-top: 15px;
+        margin-bottom: 20px;
+        font-size: 22px;
+     
+}
+.details-image{
+        width: 410px;
+        height: 308px;
+        padding: 5px 40px;
+}
+.details-infor {
+    display: flex;
+    flex: 1;
+    margin-left: 20px;
+    flex-direction: column;
+}
+.details-price{
+    font-size: 22px;
+    margin-top: 10px;
+}
+.popular-item{
+    color: #1a9349;
+     margin-top: 5px;
+     font-size: 14px;
+}
+.btn-control{
+   position: relative;
+   top: -5px
+}
+.quantity{
+    margin-top: 20px
+}
+.details-quantity{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+.details-title{
+        color:rgb(80, 79, 90);
+        margin-top: 50px;
+        margin-bottom: 10px;
+        font-size: 22px;
+}
+.MuiInputBase-input-104 {
+
+    text-align: center;
+}
+.description{
+        color: gray;
+        margin-left: 5px;
+        max-height: 200px;
+        font-size: 13px;
+        overflow:auto;
+        width: 75%;
+
+}
+.circular {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
